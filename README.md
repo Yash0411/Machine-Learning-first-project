@@ -1,4 +1,4 @@
-# Machine-Learning-first-project
+# Machine-Learning-initaial-projects
 
 Pnuemonia detection using CNN.
 Dataset : Kaggle
